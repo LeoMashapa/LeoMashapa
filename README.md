@@ -1,4 +1,4 @@
-# DataGenius
+# About Me
 
 There is a moment every analyst experiences.
 
