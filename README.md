@@ -10,7 +10,7 @@ Then someone asks:
 
 That question is why I chose data analytics.
 
-My name is **Leonett Mashapa**, a Data Analyst passionate about transforming raw data into meaningful insights that help businesses make smarter decisions, improve performance, and uncover new opportunities.
+My name is **Leo Mashapa**, a Data Analyst passionate about transforming raw data into meaningful insights that help businesses make smarter decisions, improve performance, and uncover new opportunities.
 
 - Over 3 years of experience in financial services, banking, and technology environments.
 
