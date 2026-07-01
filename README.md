@@ -16,7 +16,7 @@ My name is **Leo Mashapa**, a Data Analyst passionate about transforming raw dat
 
 - Experienced in reporting, performance monitoring, and analyzing business data to support operational and strategic decision-making.
 
-- Skilled in Power BI, SQL, Excel, and data visualization, turning complex datasets into clear, actionable insights.
+- Skilled in Power BI, SQL, Python, Excel, and data visualization, turning complex datasets into clear, actionable insights.
 
 - Currently building expertise in Business Intelligence and analytics consulting to help organizations become more data-driven.
 
